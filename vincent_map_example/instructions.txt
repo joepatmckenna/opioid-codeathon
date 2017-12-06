@@ -1,0 +1,7 @@
+run the example script to generate vega.json + map_example.html
+
+run an http server>> python -m SimpleHTTPServer 8000
+
+open in browser: localhost:8000
+
+navigate to map_example.html
